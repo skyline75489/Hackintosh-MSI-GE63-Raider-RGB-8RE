@@ -13,17 +13,16 @@ macOS version: 10.14.6
 - [x] <b>IGPU (2)</b>: GTX 1060 (6gb)
 - [x] <b>SSD</b>: Crucial MX500 500 GB SATA
 
-### What Worked?
+### What works?
 
 - [x] Acceleration Intel GPU with max VRAM.
-- [x] WIFI also works with usb wifi adapter.
+- [x] WIFI works with usb wifi adapter.
 - [x] TrackPad works with basic gesture.
 - [x] Battery Indicator.
-- [x] Brightness Working perfectly.
+- [x] Brightness and sound works perfectly.
 
 ### Not Working
 
 - [x] GTX 1060.
 - [x] Multi-gesture touch.
 - [x] Bluetooth.
-- [x] IDTouch not implemented.
