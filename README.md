@@ -26,3 +26,8 @@ macOS version: 10.14.6
 - [x] GTX 1060.
 - [x] Multi-gesture touch.
 - [x] Bluetooth.
+
+### Screenshots
+
+![about](http://zupimages.net/viewer.php?id=19/38/a123.jpg)
+
