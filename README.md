@@ -29,5 +29,5 @@ macOS version: 10.14.6
 
 ### Screenshots
 
-![about](http://zupimages.net/viewer.php?id=19/38/a123.jpg)
+![about](https://zupimages.net/up/19/38/a123.jpg)
 
